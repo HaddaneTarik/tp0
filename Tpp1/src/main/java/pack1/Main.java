@@ -7,6 +7,7 @@ public class Main {
 		System.out.println("TEST 0");
 		System.out.println("TEST 1");
 		System.out.println("TEST 2");
+		System.out.println("TEST 3");
 
 	}
 
